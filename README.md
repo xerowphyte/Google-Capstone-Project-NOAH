@@ -4,7 +4,7 @@ I Noah Owootori finished this case study in November 2022 for the Google Data 
 
 ## Introduction
  
- ![logo pic]((https://github.com/xerowphyte/github.io/blob/main/Data%20Viz/logo.jpeg))
+ ![logo pic](https://github.com/xerowphyte/github.io/blob/main/Data%20Viz/logo.jpeg)
  
 The main purpose of this study is to analyze well cleaned and processed data and get insights. These insights would enable the Cyclistic Executive team make data driven decisions as regards marketing strategies that would be aimed at converting casual riders into annual riders.
 
